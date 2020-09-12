@@ -69,6 +69,7 @@ input{
    background-color:#20B2AA;
    height: 40px;
    width: 140px;
+   cursor: pointer;
 }
 input:focus{
     outline: 0;
@@ -86,8 +87,8 @@ input:focus{
 .submit-2{
     height: 30px;
     width: 300px;
-   background-color:#00CC99
-   ;
+   background-color:#00CC99;
+   cursor: pointer;
 
 }
 .form-box-2{
@@ -167,8 +168,8 @@ input:focus{
 .submit-3{
     height: 40px;
     width: 300px;
-   background-color:#339933
-   ;
+   background-color:#339933;
+   cursor: pointer;
 
 }
 .circle{
